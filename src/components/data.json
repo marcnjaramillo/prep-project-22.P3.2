@@ -2,66 +2,66 @@
     {
         "id": 1,
         "name": "clear",
-        "source": "./assets/images/clear.svg"
+        "source": "../assets/images/clear_sky.svg"
     },
     {
         "id": 2,
         "name": "cloud",
-        "source": "./assets/images/cloud.svg"
+        "source": "../assets/images/cloud.svg"
     },
     {
         "id": 3,
         "name": "drizzle",
-        "source": "./assets/images/drizzle.svg"
+        "source": "../assets/images/drizzle.svg"
     },
     {
         "id": 4,
         "name": "dust",
-        "source": "./assets/images/dust.svg"
+        "source": "../assets/images/dust.svg"
     },
     {
         "id": 5,
         "name": "dust",
-        "source": "./assets/images/dust.svg"
+        "source": "../assets/images/dust.svg"
     },
     {
         "id": 6,
         "name": "fog",
-        "source": "./assets/images/fog.svg"
+        "source": "../assets/images/fog.svg"
     },
     {
         "id": 7,
         "name": "haze",
-        "source": "./assets/images/haze.svg"
+        "source": "../assets/images/haze.svg"
     },
     {
         "id": 8,
         "name": "mist",
-        "source": "./assets/images/mist.svg"
+        "source": "../assets/images/mist.svg"
     },
     {
         "id": 9,
         "name": "rain",
-        "source": "./assets/images/rain.svg"
+        "source": "../assets/images/rain.svg"
     },
     {
         "id": 10,
         "name": "sand",
-        "source": "./assets/images/sain.svg"
+        "source": "../assets/images/sain.svg"
     },
     {
         "id": 11,
         "name": "snow",
-        "source": "./assets/images/snow.svg"
+        "source": "../assets/images/snow.svg"
     },
     {
         "id": 12,
         "name": "thunderstorm",
-        "source": "./assets/images/thunderstorm.svg"
+        "source": "../assets/images/thunderstorm.svg"
     },
     {
         "id": 13,
         "name": "tornado",
-        "source": "./assets/images/tornado.svg"
+        "source": "../assets/images/tornado.svg"
     }
 ]
